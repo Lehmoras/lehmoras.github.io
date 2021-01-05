@@ -1,2 +1,5 @@
-# lehmoras.github.io
-Minha página pessoal!
+# Minha página pessoal!
+
+Aprendendo a usar o Git e GitHub! 
+
+Usando Udemy!
